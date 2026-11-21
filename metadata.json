@@ -1,0 +1,6 @@
+{
+  "name": "FloodWatch Command",
+  "description": "Tactical flood risk triage, terrain runoff analysis, and rescue dispatch command center powered by Google Maps Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
